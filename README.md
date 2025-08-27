@@ -1,3 +1,3 @@
 # firstdemo
 This is my first git repository i am just making this to explore github  
-Author - Sanket Bochare
+Author - Sanket Bochare(student)
